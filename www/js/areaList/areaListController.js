@@ -1,4 +1,4 @@
-define(["js/list/listView"], function(ListView) {
+define(["js/areaList/areaListView"], function(ListView) {
 
     function init() {
         var contacts = loadContacts();
@@ -29,7 +29,7 @@ define(["js/list/listView"], function(ListView) {
             ];
             //console.log(stalker);
             contacts.push(stalker);
-            contacts.push(stalker);
+            //contacts.push(stalker);
             //console.log(JSON.stringify(contacts));
             localStorage.setItem("f7Base", JSON.stringify(contacts));
             return JSON.parse(localStorage.getItem("f7Base"));

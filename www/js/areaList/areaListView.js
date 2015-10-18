@@ -1,4 +1,4 @@
-define(['hbs!js/list/contact-list-item'], function(template) {
+define(['hbs!js/areaList/area-list-item'], function(template) {
     var $ = Framework7.$;
 
     function render(params) {

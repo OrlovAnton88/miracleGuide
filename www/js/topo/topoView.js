@@ -1,4 +1,4 @@
-define(['hbs!js/topoList/topo-list-item'], function(viewTemplate) {
+define(['hbs!js/topo/topo-item'], function(viewTemplate) {
     var $ = Framework7.$;
 
     function render(params) {
@@ -6,7 +6,8 @@ define(['hbs!js/topoList/topo-list-item'], function(viewTemplate) {
         $('.contact-page').html(viewTemplate({ model: params.model }));
         //$('.contact-page').html(viewTemplate(params.model));
         //$('.contacts-header').text(params.state.isNew ? "New contact" : "Contact");
-        $('.contacts-header').text("Topo");
+        $('.contacts-header').text(params.model.name);
+        //todo:
         //$(".back").attr("href", "topo_list.html?id="+params.backId);
     }
 

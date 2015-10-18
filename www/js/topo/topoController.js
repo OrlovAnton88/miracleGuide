@@ -1,5 +1,5 @@
 //define(["app","topoView"], function(app, ContactView) {
-define(["js/topoList/topoListView"], function(TopoListView) {
+define(["js/topo/topoView"], function(TopoView) {
 
     var state = {isNew: false};
     var topo = null;
@@ -11,16 +11,16 @@ define(["js/topoList/topoListView"], function(TopoListView) {
 
         var topos = area.topos;
 
-        var backId= query.id
-
         //console.log("topos["+ JSON.stringify(topos)+"]");
-        //for (var i = 0; i < topos.length; i++) {
-        //    if (topos[i].name === query.id) {
-        //        topo = topos[i];
-        //        //state.isNew = false;
-        //        break;
-        //    }
-        //}
+        for (var i = 0; i < topos.length; i++) {
+            if (topos[i].name === query.id) {
+                topo = topos[i];
+                //state.isNew = false;
+                break;
+            }
+        }
+
+        var backId = query.id;
 
         //console.log(">>>>" + topo);
 
@@ -40,8 +40,9 @@ define(["js/topoList/topoListView"], function(TopoListView) {
         //    contact = { id: Math.floor((Math.random() * 100000) + 5).toString()};
         //    state.isNew = true;
         //}
-        TopoListView.render({
-            model: topos
+        TopoView.render({
+            model: topo,
+            backId : backId
         });
     }
 

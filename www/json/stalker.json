@@ -8,7 +8,6 @@
       "routes": [
         {
           "desc": "Boulder, 6A at Шило, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80649/large-ce5aa51d44c7.jpg",
           "level": "6A",
           "sectorName": "Шило",
           "line": {
@@ -25,12 +24,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-easy-mb-exist-route",
-          "name": "Ребро"
+          "name": "Ребро",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80649/large-ce5aa51d44c7.jpg"
         },
         {
           "desc": "Boulder, 6B at Шило, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80649/large-ce5aa51d44c7.jpg",
           "level": "6B",
           "sectorName": "Шило",
           "line": {
@@ -47,12 +47,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/137191",
-          "name": "Яйца в смятку"
+          "name": "Яйца в смятку",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80649/large-ce5aa51d44c7.jpg"
         },
         {
           "desc": "Boulder, 7B at Шило, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80649/large-ce5aa51d44c7.jpg",
           "level": "7B",
           "sectorName": "Шило",
           "line": {
@@ -73,12 +74,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/sds-137190",
-          "name": "Яйца в смятку SDS"
+          "name": "Яйца в смятку SDS",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80649/large-ce5aa51d44c7.jpg"
         },
         {
           "desc": "Boulder, 6A at Шило, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80647/large-59ffb81fd372.jpg",
           "level": "6A",
           "sectorName": "Шило",
           "line": {
@@ -103,12 +105,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/137229",
-          "name": "Простые движения"
+          "name": "Простые движения",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80647/large-59ffb81fd372.jpg"
         },
         {
           "desc": "Boulder, 7A+ at Шило, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80647/large-59ffb81fd372.jpg",
           "level": "7A+",
           "sectorName": "Шило",
           "line": {
@@ -129,12 +132,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-137193",
-          "name": "Ядра кедров"
+          "name": "Ядра кедров",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80647/large-59ffb81fd372.jpg"
         },
         {
           "desc": "Boulder, 7B+ at Шило, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80648/large-f0d0c2fc677a.jpg",
           "level": "7B+",
           "sectorName": "Шило",
           "line": {
@@ -155,12 +159,16 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/e-t-extra-terrestrial",
-          "name": "E.T. ( Extra -Terrestrial) SDS"
+          "name": "E.T. ( Extra -Terrestrial) SDS",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80648/large-f0d0c2fc677a.jpg"
         }
       ],
+      "id": 0,
       "link": "https://27crags.com//crags/stalker/topos/17348",
-      "name": "Шило"
+      "name": "Шило",
+      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80647/huge-b81fd372f0e6.jpg"
     },
     {
       "coordinates": {
@@ -169,90 +177,7 @@
       },
       "routes": [
         {
-          "desc": "Boulder, 6A at Ацтек, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80668/large-f104a09ac622.jpg",
-          "level": "6A",
-          "sectorName": "Ацтек",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 375,
-            "points": [
-              {
-                "x": 273,
-                "y": 244
-              },
-              {
-                "x": 256,
-                "y": 148
-              },
-              {
-                "x": 274,
-                "y": 59
-              }
-            ]
-          },
-          "link": "https://27crags.com//crags/stalker/routes/route-6-137220",
-          "name": "Ghost busters"
-        },
-        {
-          "desc": "Boulder, 6C+ at Ацтек, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80669/large-3b5400090257.jpg",
-          "level": "6C+",
-          "sectorName": "Ацтек",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 375,
-            "points": [
-              {
-                "x": 369,
-                "y": 268
-              },
-              {
-                "x": 368,
-                "y": 189
-              },
-              {
-                "x": 338,
-                "y": 172
-              },
-              {
-                "x": 271,
-                "y": 116
-              },
-              {
-                "x": 288,
-                "y": 4
-              }
-            ]
-          },
-          "link": "https://27crags.com//crags/stalker/routes/route-7-137221",
-          "name": "Voodoo people"
-        },
-        {
-          "desc": "Boulder, 5+ at Ацтек, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80675/large-e6db007d7572.jpg",
-          "level": "5+",
-          "sectorName": "Ацтек",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 375,
-            "points": [
-              {
-                "x": 243,
-                "y": 248
-              },
-              {
-                "x": 248,
-                "y": 21
-              }
-            ]
-          },
-          "link": "https://27crags.com//crags/stalker/routes/137237",
-          "name": "Лисёнок"
-        },
-        {
           "desc": "Boulder, ? at Ацтек, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80668/large-f104a09ac622.jpg",
           "level": "?",
           "sectorName": "Ацтек",
           "line": {
@@ -269,12 +194,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-8",
-          "name": "project 8"
+          "name": "project 8",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80668/large-f104a09ac622.jpg"
         },
         {
           "desc": "Boulder, ? at Ацтек, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80669/large-3b5400090257.jpg",
           "level": "?",
           "sectorName": "Ацтек",
           "line": {
@@ -295,12 +221,16 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-9",
-          "name": "project 9"
+          "name": "project 9",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80669/large-3b5400090257.jpg"
         }
       ],
+      "id": 0,
       "link": "https://27crags.com//crags/stalker/topos/raggae",
-      "name": "Ацтек"
+      "name": "Ацтек",
+      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80668/huge-a09ac622699e.jpg"
     },
     {
       "coordinates": {
@@ -310,7 +240,6 @@
       "routes": [
         {
           "desc": "Boulder, ? at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80659/large-4643593d0e79.jpg",
           "level": "?",
           "sectorName": "Малыш",
           "line": {
@@ -327,12 +256,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/route-4-137210",
-          "name": "route 4"
+          "name": "route 4",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80659/large-4643593d0e79.jpg"
         },
         {
           "desc": "Boulder, ? at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80660/large-bb4e6a85c304.jpg",
           "level": "?",
           "sectorName": "Малыш",
           "line": {
@@ -353,12 +283,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/route-1-137207",
-          "name": "route 1"
+          "name": "route 1",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80660/large-bb4e6a85c304.jpg"
         },
         {
           "desc": "Boulder, ? at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80658/large-5e06ff8f5211.jpg",
           "level": "?",
           "sectorName": "Малыш",
           "line": {
@@ -375,12 +306,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/route-2-137208",
-          "name": "route 2"
+          "name": "route 2",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80658/large-5e06ff8f5211.jpg"
         },
         {
           "desc": "Boulder, 7A at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80661/large-9c69e6d32c48.jpg",
           "level": "7A",
           "sectorName": "Малыш",
           "line": {
@@ -397,12 +329,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/trio-156655",
-          "name": "Trio"
+          "name": "Trio",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80661/large-9c69e6d32c48.jpg"
         },
         {
           "desc": "Boulder, 7A at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80659/large-4643593d0e79.jpg",
           "level": "7A",
           "sectorName": "Малыш",
           "line": {
@@ -423,12 +356,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/akrobatika",
-          "name": "Akrobatika"
+          "name": "Akrobatika",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80659/large-4643593d0e79.jpg"
         },
         {
           "desc": "Boulder, 7C at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80661/large-9c69e6d32c48.jpg",
           "level": "7C",
           "sectorName": "Малыш",
           "line": {
@@ -445,12 +379,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/zimov-e-zverej",
-          "name": "Zimov\u0027e zverej"
+          "name": "Zimov\u0027e zverej",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80661/large-9c69e6d32c48.jpg"
         },
         {
           "desc": "Boulder, 6A at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80660/large-bb4e6a85c304.jpg",
           "level": "6A",
           "sectorName": "Малыш",
           "line": {
@@ -483,12 +418,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/kosahko",
-          "name": "Kosahko"
+          "name": "Kosahko",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80660/large-bb4e6a85c304.jpg"
         },
         {
           "desc": "Boulder, ? at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80658/large-5e06ff8f5211.jpg",
           "level": "?",
           "sectorName": "Малыш",
           "line": {
@@ -505,12 +441,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/route-3-137209",
-          "name": "route 3"
+          "name": "route 3",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80658/large-5e06ff8f5211.jpg"
         },
         {
           "desc": "Boulder, 6A at Малыш, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80660/large-bb4e6a85c304.jpg",
           "level": "6A",
           "sectorName": "Малыш",
           "line": {
@@ -535,12 +472,16 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/dyrko",
-          "name": "Dyrko"
+          "name": "Dyrko",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80660/large-bb4e6a85c304.jpg"
         }
       ],
+      "id": 0,
       "link": "https://27crags.com//crags/stalker/topos/koshako",
-      "name": "Малыш"
+      "name": "Малыш",
+      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80658/huge-ff8f521158fa.jpg"
     },
     {
       "coordinates": {
@@ -549,30 +490,7 @@
       },
       "routes": [
         {
-          "desc": "Boulder, 7A+ at Даву, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80667/large-308bb3889489.jpg",
-          "level": "7A+",
-          "sectorName": "Даву",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 375,
-            "points": [
-              {
-                "x": 275,
-                "y": 227
-              },
-              {
-                "x": 232,
-                "y": 37
-              }
-            ]
-          },
-          "link": "https://27crags.com//crags/stalker/routes/ostorozhno-zlaja-murzilka",
-          "name": "Ostorozhno, zlaja murzilka"
-        },
-        {
           "desc": "Boulder, 5+ at Даву, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80667/large-308bb3889489.jpg",
           "level": "5+",
           "sectorName": "Даву",
           "line": {
@@ -589,68 +507,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/smile-137225",
-          "name": "Smile"
-        },
-        {
-          "desc": "Boulder, ? at Даву, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80671/large-f70c655ac4d3.jpg",
-          "level": "?",
-          "sectorName": "Даву",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 420,
-            "points": [
-              {
-                "x": 410,
-                "y": 287
-              },
-              {
-                "x": 383,
-                "y": 266
-              },
-              {
-                "x": 351,
-                "y": 246
-              },
-              {
-                "x": 307,
-                "y": 229
-              },
-              {
-                "x": 297,
-                "y": 206
-              }
-            ]
-          },
-          "link": "https://27crags.com//crags/stalker/routes/project-10",
-          "name": "project 10"
+          "name": "Smile",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80667/large-308bb3889489.jpg"
         },
         {
           "desc": "Boulder, 5+ at Даву, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80666/large-7f682ca53b57.jpg",
-          "level": "5+",
-          "sectorName": "Даву",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 375,
-            "points": [
-              {
-                "x": 232,
-                "y": 211
-              },
-              {
-                "x": 223,
-                "y": 81
-              }
-            ]
-          },
-          "link": "https://27crags.com//crags/stalker/routes/137227",
-          "name": "Дюна"
-        },
-        {
-          "desc": "Boulder, 5+ at Даву, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80666/large-7f682ca53b57.jpg",
           "level": "5+",
           "sectorName": "Даву",
           "line": {
@@ -667,12 +530,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/137218",
-          "name": "Верблюд"
+          "name": "Верблюд",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80666/large-7f682ca53b57.jpg"
         },
         {
           "desc": "Boulder, 6A at Даву, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80671/large-f70c655ac4d3.jpg",
           "level": "6A",
           "sectorName": "Даву",
           "line": {
@@ -689,74 +553,16 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/137217",
-          "name": "Дядя Стёпа"
+          "name": "Дядя Стёпа",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80671/large-f70c655ac4d3.jpg"
         }
       ],
+      "id": 0,
       "link": "https://27crags.com//crags/stalker/topos/17353",
-      "name": "Даву"
-    },
-    {
-      "coordinates": {
-        "latitude": 60.750375,
-        "longitude": 28.793196
-      },
-      "routes": [
-        {
-          "desc": "Boulder, ? at Смешарики, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80662/large-8c935b7d674f.jpg",
-          "level": "?",
-          "sectorName": "Смешарики",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 375,
-            "points": [
-              {
-                "x": 355,
-                "y": 253
-              },
-              {
-                "x": 331,
-                "y": 53
-              }
-            ]
-          },
-          "link": "https://27crags.com//crags/stalker/routes/route-5-137212",
-          "name": "route 5"
-        },
-        {
-          "desc": "Boulder, 6A at Смешарики, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80662/large-8c935b7d674f.jpg",
-          "level": "6A",
-          "sectorName": "Смешарики",
-          "line": {
-            "plotWindth": 560,
-            "plotHeight": 375,
-            "points": [
-              {
-                "x": 247,
-                "y": 213
-              },
-              {
-                "x": 192,
-                "y": 134
-              },
-              {
-                "x": 180,
-                "y": 96
-              },
-              {
-                "x": 237,
-                "y": 44
-              }
-            ]
-          },
-          "link": "https://27crags.com//crags/stalker/routes/pinch-137211",
-          "name": "Pinch"
-        }
-      ],
-      "link": "https://27crags.com//crags/stalker/topos/pinch-17351",
-      "name": "Смешарики"
+      "name": "Даву",
+      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80666/huge-2ca53b578487.jpg"
     },
     {
       "coordinates": {
@@ -766,7 +572,6 @@
       "routes": [
         {
           "desc": "Boulder, 7B at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80643/large-714a553260b9.jpg",
           "level": "7B",
           "sectorName": "Левый дубль",
           "line": {
@@ -783,12 +588,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/pravaya-dver",
-          "name": "Pravaya Dver\u0027"
+          "name": "Pravaya Dver\u0027",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80643/large-714a553260b9.jpg"
         },
         {
           "desc": "Boulder, 5+ at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg",
           "level": "5+",
           "sectorName": "Левый дубль",
           "line": {
@@ -813,12 +619,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/v-sapogakh",
-          "name": "V sapogakh"
+          "name": "V sapogakh",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg"
         },
         {
           "desc": "Boulder, 7A+ at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/large-80ecece357c4.jpg",
           "level": "7A+",
           "sectorName": "Левый дубль",
           "line": {
@@ -851,12 +658,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/futurama",
-          "name": "Futurama"
+          "name": "Futurama",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/large-80ecece357c4.jpg"
         },
         {
           "desc": "Boulder, 7A at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/large-80ecece357c4.jpg",
           "level": "7A",
           "sectorName": "Левый дубль",
           "line": {
@@ -881,12 +689,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/stand-up-fight",
-          "name": "Stand Up \u0026 Fight"
+          "name": "Stand Up \u0026 Fight",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/large-80ecece357c4.jpg"
         },
         {
           "desc": "Boulder, 7B+ at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/large-80ecece357c4.jpg",
           "level": "7B+",
           "sectorName": "Левый дубль",
           "line": {
@@ -911,12 +720,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/soyuz",
-          "name": "Soyuz"
+          "name": "Soyuz",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/large-80ecece357c4.jpg"
         },
         {
           "desc": "Boulder, 6A at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg",
           "level": "6A",
           "sectorName": "Левый дубль",
           "line": {
@@ -973,12 +783,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/ruki-nogi-xvost",
-          "name": "Ruki, Nogi, Xvost"
+          "name": "Ruki, Nogi, Xvost",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg"
         },
         {
           "desc": "Boulder, 6A at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80642/large-3027b1d44183.jpg",
           "level": "6A",
           "sectorName": "Левый дубль",
           "line": {
@@ -995,12 +806,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/barashek",
-          "name": "Barashek"
+          "name": "Barashek",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80642/large-3027b1d44183.jpg"
         },
         {
           "desc": "Boulder, 6A+ at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/087/87112/large-d4da9f5505d5.jpg",
           "level": "6A+",
           "sectorName": "Левый дубль",
           "line": {
@@ -1029,12 +841,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/152294",
-          "name": "Sapog v kotah"
+          "name": "Sapog v kotah",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/087/87112/large-d4da9f5505d5.jpg"
         },
         {
           "desc": "Boulder, 6C+ at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg",
           "level": "6C+",
           "sectorName": "Левый дубль",
           "line": {
@@ -1075,12 +888,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/tiranozavr-reks",
-          "name": "Tiranozavr Reks"
+          "name": "Tiranozavr Reks",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg"
         },
         {
           "desc": "Boulder, 8A at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80641/large-1f0f0e77e5d0.jpg",
           "level": "8A",
           "sectorName": "Левый дубль",
           "line": {
@@ -1101,12 +915,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/harlem-shake",
-          "name": "Harlem Shake"
+          "name": "Harlem Shake",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80641/large-1f0f0e77e5d0.jpg"
         },
         {
           "desc": "Boulder, 6A+ at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg",
           "level": "6A+",
           "sectorName": "Левый дубль",
           "line": {
@@ -1135,12 +950,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/bossikom-26959",
-          "name": "Bossikom"
+          "name": "Bossikom",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg"
         },
         {
           "desc": "Boulder, 8A at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80641/large-1f0f0e77e5d0.jpg",
           "level": "8A",
           "sectorName": "Левый дубль",
           "line": {
@@ -1161,12 +977,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/dance-and-dense-denso",
-          "name": "Dance and Dense Denso"
+          "name": "Dance and Dense Denso",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80641/large-1f0f0e77e5d0.jpg"
         },
         {
           "desc": "Boulder, ? at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80643/large-714a553260b9.jpg",
           "level": "?",
           "sectorName": "Левый дубль",
           "line": {
@@ -1183,12 +1000,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-5-2",
-          "name": "project 5 #2"
+          "name": "project 5 #2",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80643/large-714a553260b9.jpg"
         },
         {
           "desc": "Boulder, ? at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80643/large-714a553260b9.jpg",
           "level": "?",
           "sectorName": "Левый дубль",
           "line": {
@@ -1205,12 +1023,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-5-1",
-          "name": "project 5 #1"
+          "name": "project 5 #1",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80643/large-714a553260b9.jpg"
         },
         {
           "desc": "Boulder, 6B at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg",
           "level": "6B",
           "sectorName": "Левый дубль",
           "line": {
@@ -1259,12 +1078,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/zmey-na-skovorodke",
-          "name": "Zmey na skovorodke"
+          "name": "Zmey na skovorodke",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg"
         },
         {
           "desc": "Boulder, 7C at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/large-80ecece357c4.jpg",
           "level": "7C",
           "sectorName": "Левый дубль",
           "line": {
@@ -1301,12 +1121,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/druzhb-n-r-d-v",
-          "name": "Druzhbа nаrоdоv"
+          "name": "Druzhbа nаrоdоv",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/large-80ecece357c4.jpg"
         },
         {
           "desc": "Boulder, ? at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80642/large-3027b1d44183.jpg",
           "level": "?",
           "sectorName": "Левый дубль",
           "line": {
@@ -1335,12 +1156,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-148016",
-          "name": "Project"
+          "name": "Project",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80642/large-3027b1d44183.jpg"
         },
         {
           "desc": "Boulder, 5+ at Левый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg",
           "level": "5+",
           "sectorName": "Левый дубль",
           "line": {
@@ -1361,12 +1183,16 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/g-dk-y-uty",
-          "name": "Gаdkаyа utyа"
+          "name": "Gаdkаyа utyа",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51057/large-69ffd12a28b4.jpg"
         }
       ],
+      "id": 0,
       "link": "https://27crags.com//crags/stalker/topos/15668",
-      "name": "Левый дубль"
+      "name": "Левый дубль",
+      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51058/huge-ece357c48fd8.jpg"
     },
     {
       "coordinates": {
@@ -1376,7 +1202,6 @@
       "routes": [
         {
           "desc": "Boulder, ? at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80655/large-4cf4961b1c01.jpg",
           "level": "?",
           "sectorName": "Крыша",
           "line": {
@@ -1393,12 +1218,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/amebko",
-          "name": "Amebko"
+          "name": "Amebko",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80655/large-4cf4961b1c01.jpg"
         },
         {
           "desc": "Boulder, 7C+ at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/069/69423/large-bbaefc0f8a73.jpg",
           "level": "7C+",
           "sectorName": "Крыша",
           "line": {
@@ -1427,12 +1253,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/mutobor",
-          "name": "Mutobor"
+          "name": "Mutobor",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/069/69423/large-bbaefc0f8a73.jpg"
         },
         {
           "desc": "Boulder, 5+ at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80654/large-80f0149be540.jpg",
           "level": "5+",
           "sectorName": "Крыша",
           "line": {
@@ -1457,12 +1284,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/alu-ki-taki",
-          "name": "Alu ki taki"
+          "name": "Alu ki taki",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80654/large-80f0149be540.jpg"
         },
         {
           "desc": "Boulder, 7A (7A+) at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80656/large-ed3aebf87c65.jpg",
           "level": "7A (7A+)",
           "sectorName": "Крыша",
           "line": {
@@ -1495,12 +1323,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/pterodaktil",
-          "name": "Pterodaktil"
+          "name": "Pterodaktil",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80656/large-ed3aebf87c65.jpg"
         },
         {
           "desc": "Boulder, 6B+ at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80655/large-4cf4961b1c01.jpg",
           "level": "6B+",
           "sectorName": "Крыша",
           "line": {
@@ -1517,12 +1346,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/yo-mo-yo",
-          "name": "Yo-mo-yo"
+          "name": "Yo-mo-yo",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80655/large-4cf4961b1c01.jpg"
         },
         {
           "desc": "Boulder, 6B at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80654/large-80f0149be540.jpg",
           "level": "6B",
           "sectorName": "Крыша",
           "line": {
@@ -1543,12 +1373,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/hookah-123849",
-          "name": "HooKah"
+          "name": "HooKah",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80654/large-80f0149be540.jpg"
         },
         {
           "desc": "Boulder, 6B at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80656/large-ed3aebf87c65.jpg",
           "level": "6B",
           "sectorName": "Крыша",
           "line": {
@@ -1565,12 +1396,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/rokko-ko",
-          "name": "Rokko-ko"
+          "name": "Rokko-ko",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80656/large-ed3aebf87c65.jpg"
         },
         {
           "desc": "Boulder, 6C at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80657/large-6c8c7ed89ef3.jpg",
           "level": "6C",
           "sectorName": "Крыша",
           "line": {
@@ -1591,12 +1423,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/zlobniy-muravey",
-          "name": "Zlobniy muravey"
+          "name": "Zlobniy muravey",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80657/large-6c8c7ed89ef3.jpg"
         },
         {
           "desc": "Boulder, 5+ (5B) at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/069/69423/large-bbaefc0f8a73.jpg",
           "level": "5+ (5B)",
           "sectorName": "Крыша",
           "line": {
@@ -1613,12 +1446,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/odinnadcatiklassnica",
-          "name": "Odinnadcatiklassnica"
+          "name": "Odinnadcatiklassnica",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/069/69423/large-bbaefc0f8a73.jpg"
         },
         {
           "desc": "Boulder, 7B at Крыша, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80655/large-4cf4961b1c01.jpg",
           "level": "7B",
           "sectorName": "Крыша",
           "line": {
@@ -1643,12 +1477,16 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/yo-2-yo",
-          "name": "Yo-2-Yo"
+          "name": "Yo-2-Yo",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80655/large-4cf4961b1c01.jpg"
         }
       ],
+      "id": 0,
       "link": "https://27crags.com//crags/stalker/topos/15669",
-      "name": "Крыша"
+      "name": "Крыша",
+      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/069/69423/huge-fc0f8a731e27.jpg"
     },
     {
       "coordinates": {
@@ -1658,7 +1496,6 @@
       "routes": [
         {
           "desc": "Boulder, 6B at И-ту, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/079/79542/large-7c39a66ce1f2.jpg",
           "level": "6B",
           "sectorName": "И-ту",
           "line": {
@@ -1731,12 +1568,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/134609",
-          "name": "И-ту"
+          "name": "И-ту",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/079/79542/large-7c39a66ce1f2.jpg"
         },
         {
           "desc": "Boulder, 7B at И-ту, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/079/79542/large-7c39a66ce1f2.jpg",
           "level": "7B",
           "sectorName": "И-ту",
           "line": {
@@ -1761,12 +1599,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-137070",
-          "name": "Выдра в гетрах"
+          "name": "Выдра в гетрах",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/079/79542/large-7c39a66ce1f2.jpg"
         },
         {
           "desc": "Boulder, 6A+ at И-ту, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/079/79542/large-7c39a66ce1f2.jpg",
           "level": "6A+",
           "sectorName": "И-ту",
           "line": {
@@ -1791,12 +1630,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/134610",
-          "name": "Ту-ту"
+          "name": "Ту-ту",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/079/79542/large-7c39a66ce1f2.jpg"
         },
         {
           "desc": "Boulder, ? at И-ту, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80664/large-4081341e0483.jpg",
           "level": "?",
           "sectorName": "И-ту",
           "line": {
@@ -1813,12 +1653,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-2-137214",
-          "name": "project 2"
+          "name": "project 2",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80664/large-4081341e0483.jpg"
         },
         {
           "desc": "Boulder, ? at И-ту, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80663/large-bb167dbb53a3.jpg",
           "level": "?",
           "sectorName": "И-ту",
           "line": {
@@ -1835,12 +1676,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-137213",
-          "name": "Project"
+          "name": "Project",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80663/large-bb167dbb53a3.jpg"
         },
         {
           "desc": "Boulder, ? at И-ту, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80664/large-4081341e0483.jpg",
           "level": "?",
           "sectorName": "И-ту",
           "line": {
@@ -1865,12 +1707,16 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/project-3-137215",
-          "name": "project 3"
+          "name": "project 3",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80664/large-4081341e0483.jpg"
         }
       ],
+      "id": 0,
       "link": "https://27crags.com//crags/stalker/topos/17080",
-      "name": "И-ту"
+      "name": "И-ту",
+      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/079/79542/huge-a66ce1f2596a.jpg"
     },
     {
       "coordinates": {
@@ -1880,7 +1726,6 @@
       "routes": [
         {
           "desc": "Boulder, 7A at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg",
           "level": "7A",
           "sectorName": "Правый дубль",
           "line": {
@@ -1897,12 +1742,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/tvoi-krolik-napisal",
-          "name": "Tvoi krolik napisal"
+          "name": "Tvoi krolik napisal",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg"
         },
         {
           "desc": "Boulder, 7A+ at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg",
           "level": "7A+",
           "sectorName": "Правый дубль",
           "line": {
@@ -1939,12 +1785,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/vasistjumbi",
-          "name": "Vasistjumbi"
+          "name": "Vasistjumbi",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg"
         },
         {
           "desc": "Boulder, 7C at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80634/large-069fedd01227.jpg",
           "level": "7C",
           "sectorName": "Правый дубль",
           "line": {
@@ -1965,12 +1812,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/escalibur-123842",
-          "name": "Escalibur"
+          "name": "Escalibur",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80634/large-069fedd01227.jpg"
         },
         {
           "desc": "Boulder, 7B at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80633/large-91dfc2e6d679.jpg",
           "level": "7B",
           "sectorName": "Правый дубль",
           "line": {
@@ -1987,12 +1835,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/right-friends",
-          "name": "Right friends"
+          "name": "Right friends",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80633/large-91dfc2e6d679.jpg"
         },
         {
           "desc": "Boulder, 5+ at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg",
           "level": "5+",
           "sectorName": "Правый дубль",
           "line": {
@@ -2013,12 +1862,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/oh-baby",
-          "name": "Oh, Baby!"
+          "name": "Oh, Baby!",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg"
         },
         {
           "desc": "Boulder, 7A at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51059/large-935f61bd00db.jpg",
           "level": "7A",
           "sectorName": "Правый дубль",
           "line": {
@@ -2039,12 +1889,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/upward",
-          "name": "Utehi begemota (upwards)"
+          "name": "Utehi begemota (upwards)",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51059/large-935f61bd00db.jpg"
         },
         {
           "desc": "Boulder, 7B at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51059/large-935f61bd00db.jpg",
           "level": "7B",
           "sectorName": "Правый дубль",
           "line": {
@@ -2061,12 +1912,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/tema-proshlogo-goda",
-          "name": "Tema proshlogo leta"
+          "name": "Tema proshlogo leta",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51059/large-935f61bd00db.jpg"
         },
         {
           "desc": "Boulder, 7A at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg",
           "level": "7A",
           "sectorName": "Правый дубль",
           "line": {
@@ -2083,12 +1935,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/micra",
-          "name": "Micra"
+          "name": "Micra",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg"
         },
         {
           "desc": "Boulder, 7A at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg",
           "level": "7A",
           "sectorName": "Правый дубль",
           "line": {
@@ -2113,12 +1966,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/davay-gertruda",
-          "name": "Davay, Gertruda!"
+          "name": "Davay, Gertruda!",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51060/large-0f62e3f75b57.jpg"
         },
         {
           "desc": "Boulder, ? at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80634/large-069fedd01227.jpg",
           "level": "?",
           "sectorName": "Правый дубль",
           "line": {
@@ -2135,12 +1989,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/pero",
-          "name": "Pero"
+          "name": "Pero",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80634/large-069fedd01227.jpg"
         },
         {
           "desc": "Boulder, 7A at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51059/large-935f61bd00db.jpg",
           "level": "7A",
           "sectorName": "Правый дубль",
           "line": {
@@ -2169,12 +2024,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/utehi-begemota",
-          "name": "Utehi begemota"
+          "name": "Utehi begemota",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51059/large-935f61bd00db.jpg"
         },
         {
           "desc": "Boulder, 6A at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80633/large-91dfc2e6d679.jpg",
           "level": "6A",
           "sectorName": "Правый дубль",
           "line": {
@@ -2191,12 +2047,13 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/friends-123844",
-          "name": "Friends"
+          "name": "Friends",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80633/large-91dfc2e6d679.jpg"
         },
         {
           "desc": "Boulder, 6B at Правый дубль, Stalker in the area of Vyborg, Russian Federation",
-          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80634/large-069fedd01227.jpg",
           "level": "6B",
           "sectorName": "Правый дубль",
           "line": {
@@ -2213,14 +2070,20 @@
               }
             ]
           },
+          "id": 0,
           "link": "https://27crags.com//crags/stalker/routes/blue-boy",
-          "name": "Blue boy"
+          "name": "Blue boy",
+          "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80634/large-069fedd01227.jpg"
         }
       ],
+      "id": 0,
       "link": "https://27crags.com//crags/stalker/topos/15670",
-      "name": "Правый дубль"
+      "name": "Правый дубль",
+      "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/051/51059/huge-61bd00db017c.jpg"
     }
   ],
+  "id": 0,
   "link": "https://27crags.com/crags/stalker/",
-  "name": "Stalker"
+  "name": "Stalker",
+  "imageLink": "https://d37d73vc0i3fom.cloudfront.net/photos/000/080/80647/huge-b81fd372f0e6.jpg"
 }

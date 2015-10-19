@@ -1,26 +1,19 @@
 //define(["app","topoView"], function(app, ContactView) {
-define(["js/topo/topoView"], function(TopoView) {
+define(["js/topo/topoView", "util"], function(TopoView, Util) {
 
     var state = {isNew: false};
     var topo = null;
 
     function init(query){
-        var topo;
+
         console.log("query[" + JSON.stringify(query) +"]");
-        var area = JSON.parse(localStorage.getItem("f7Base"))[0];
+        //var area = JSON.parse(localStorage.getItem("areas"))[0];
+        var areas = JSON.parse(localStorage.getItem("areas"));
 
-        var topos = area.topos;
+        var area = Util.getArea(areas,query.backId);
 
-        //console.log("topos["+ JSON.stringify(topos)+"]");
-        for (var i = 0; i < topos.length; i++) {
-            if (topos[i].name === query.id) {
-                topo = topos[i];
-                //state.isNew = false;
-                break;
-            }
-        }
+        var topo = Util.getTopo(area.topos, query.id);
 
-        var backId = query.id;
 
         //console.log(">>>>" + topo);
 
@@ -42,7 +35,7 @@ define(["js/topo/topoView"], function(TopoView) {
         //}
         TopoView.render({
             model: topo,
-            backId : backId
+            backId : query.backId
         });
     }
 

@@ -8,7 +8,7 @@ define(['hbs!js/topo/topo-item'], function(viewTemplate) {
         //$('.contacts-header').text(params.state.isNew ? "New contact" : "Contact");
         $('.contacts-header').text(params.model.name);
         //todo:
-        //$(".back").attr("href", "topo_list.html?id="+params.backId);
+        $(".back").attr("data-page", "topo_list.html");
     }
 
     return {

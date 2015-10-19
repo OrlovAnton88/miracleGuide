@@ -2,7 +2,8 @@ require.config({
     paths: {
         handlebars: "lib/handlebars",
         text: "lib/text",
-        hbs: "lib/hbs"
+        hbs: "lib/hbs",
+        util: "js/util"
     },
     shim: {
         handlebars: {

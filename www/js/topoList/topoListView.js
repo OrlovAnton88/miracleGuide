@@ -3,11 +3,11 @@ define(['hbs!js/topoList/topo-list-item'], function(viewTemplate) {
 
     function render(params) {
 
-        $('.contact-page').html(viewTemplate({ model: params.model }));
+        $('.contact-page').html(viewTemplate({ model: params.model ,areaName: params.areaName }));
         //$('.contact-page').html(viewTemplate(params.model));
         //$('.contacts-header').text(params.state.isNew ? "New contact" : "Contact");
-        $('.contacts-header').text("Topo");
-        //$(".back").attr("href", "topo_list.html?id="+params.backId);
+        $('.contacts-header').text(params.areaName);
+        $(".back").attr("href", "index.html");
     }
 
     return {
